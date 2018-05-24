@@ -1,5 +1,4 @@
-'''html
-<h2 style="text-align: center;">PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</h2> 
+<h2 style="text-align: center;">PRIVACY POLICY</h2> 
 <p></p> 
 <p>This privacy policy governs your use of the software application eJumble ( for mobile devices that was created by&nbsp;Opaqueware.com.&nbsp;The Application is&nbsp;a file manager app&nbsp;</p> 
 <h4>&nbsp;</h4> 
@@ -35,10 +34,10 @@
 <p>&nbsp;</p> 
 <h4>What are my opt-out rights?</h4> 
 <p></p> 
-<p>You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at support@opaqueware.com.</p> 
+<p>You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.</p> 
 <p>&nbsp;</p> 
 <h4><strong>Data Retention Policy, Managing Your Information</strong></h4> 
-<p>We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months&nbsp;and thereafter may store it in aggregate. If youíd like us to delete User Provided Data that you have provided via the Application, please contact us at&nbsp;support@opaqueware.com&nbsp;and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.</p> 
+<p>We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months&nbsp;and thereafter may store it in aggregate. If you‚Äôd like us to delete User Provided Data that you have provided via the Application, please contact us at&nbsp;support@opaqueware.com&nbsp;and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.</p> 
 <p>&nbsp;</p> 
 <h4><strong>Children</strong></h4> 
 <p></p> 
@@ -52,8 +51,7 @@
 <p>This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy&nbsp;here&nbsp;.You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.</p> 
 <p>&nbsp;</p> 
 <h4><strong>Your Consent</strong></h4> 
-<p>By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. &quot;Processing,î means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States&nbsp;your information will be transferred, processed and stored there under United States&nbsp;privacy standards.&nbsp;</p> 
+<p>By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. &quot;Processing,‚Äù means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States&nbsp;your information will be transferred, processed and stored there under United States&nbsp;privacy standards.&nbsp;</p> 
 <p>&nbsp;</p> 
 <h4>Contact us</h4> 
 <p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at&nbsp;support@opaqueware.com.</p>
-'''
